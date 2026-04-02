@@ -14,40 +14,64 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Bilal Patel</h1>
-<h3 align="center">BSc Computer Science Student | Aspiring Developer 🚀</h3>
+<h3 align="center">BSc CS Student | Python & Web Developer 🚀</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 BSc Computer Science Student  
-- 💻 Learning **Django, Python & Web Development**  
-- 🚀 Interested in building **real-world projects & apps**    
-- 🔥 Currently working on: **College Management System (CMS)**  
+## 🧑‍💻 I am a
+- 🎓 Computer Science Student  
+- 💡 Passionate about building real-world projects    
 
 ---
 
-## 🛠️ Skills
-- 💻 Languages: Python, HTML, CSS, Javascript,C++
-- ⚙️ Frameworks: Django, Flask
-- 🗄️ Database: SQLite,MySQL 
-- 🧰 Tools: Git, GitHub, VS Code  
+## I'm Working On
+- College Management System (Django)
+- Authentication Systems
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tools I Use
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalpatel813&show_icons=true&theme=radical&cache_seconds=86400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalpatel813&theme=radical" />
-</p> 
+  
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=django" height="50"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+
+</p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: bilalpatel78600@gmail.com 
-- 💼 LinkedIn: https://linkedin.com/in/bilal-patel-759624380  
-- 🐙 GitHub: https://github.com/bilalpatel813
+## 📫 How to Reach Me
+
+<p align="center">
+<a href="mailto:bilalpatel78600@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bilal-patel-759624380">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/bilalpatel813">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-> I love building projects more than just watching tutorials 😎
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalpatel813&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalpatel813&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚡Fun Fact
+> I build more than I watch tutorials... 
