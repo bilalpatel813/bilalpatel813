@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 ---
 
 ## 📈 GitHub Stats
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalpatel813\&show_icons=true\&theme=radical) 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalpatel813&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalpatel813&theme=radical" />
+</p> 
 
 ---
 
