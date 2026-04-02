@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Skills
-- 💻 Languages: Python, HTML, CSS, JavaScript  
-- ⚙️ Frameworks: Django  
+- 💻 Languages: Python, HTML, CSS, Javascript,C++
+- ⚙️ Frameworks: Django, Flask
 - 🗄️ Database: SQLite,MySQL 
 - 🧰 Tools: Git, GitHub, VS Code  
 
