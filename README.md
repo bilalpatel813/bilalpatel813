@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=django" height="50"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="30"/>
+<img src="https://skillicons.dev/icons?i=django" height="30"/>
+<img src="https://skillicons.dev/icons?i=html" height="30"/>
+<img src="https://skillicons.dev/icons?i=css" height="30"/>
+<img src="https://skillicons.dev/icons?i=js" height="30"/>
+<img src="https://skillicons.dev/icons?i=git" height="30"/>
+<img src="https://skillicons.dev/icons?i=github" height="30"/>
 
 </p>
 
