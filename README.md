@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Bilal Patel</h1>
+<h3 align="center">BSc Computer Science Student | Aspiring Developer 🚀</h3>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 BSc Computer Science Student  
+- 💻 Learning **Django, Python & Web Development**  
+- 🚀 Interested in building **real-world projects & apps**    
+- 🔥 Currently working on: **College Management System (CMS)**  
+
+---
+
+## 🛠️ Skills
+- 💻 Languages: Python, HTML, CSS, JavaScript  
+- ⚙️ Frameworks: Django  
+- 🗄️ Database: SQLite  
+- 🧰 Tools: Git, GitHub, VS Code  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalpatel813&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 📫 Contact Me
+- 📧 Email: bilalpatel78600@gmail.com 
+- 💼 LinkedIn: https://linkedin.com/in/bilal-patel-759624380  
+- 🐙 GitHub: https://github.com/bilalpatel813
+
+---
+
+## ⚡ Fun Fact
+> I love building projects more than just watching tutorials 😎
