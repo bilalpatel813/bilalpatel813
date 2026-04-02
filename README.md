@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 - 💻 Languages: Python, HTML, CSS, JavaScript  
 - ⚙️ Frameworks: Django  
-- 🗄️ Database: SQLite  
+- 🗄️ Database: SQLite,MySQL 
 - 🧰 Tools: Git, GitHub, VS Code  
 
 ---
