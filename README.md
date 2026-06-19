@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## 📫 How to Reach Me
 
 <p align="center">
-<a href="mailto:bilalpatel78600@gmail.com">
+<a href="mailto:patelbilal8137@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
