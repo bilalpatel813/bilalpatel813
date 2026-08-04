@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 
 ## I'm Working On
-- College Management System (Django)
+- Backend Architecture(Django)
 - Authentication Systems
 
 ---
