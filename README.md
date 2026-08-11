@@ -65,9 +65,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=bilalpatel813&theme=dark&background=0d1117&border=FF9F1C&ring=FF9F1C&fire=FF9F1C&currStreakLabel=FF9F1C&sideLabels=FF9F1C&dates=c9d1d9)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=bilalpatel813&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 ---
