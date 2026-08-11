@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalpatel813&theme=tokyonight"/>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=bilalpatel813&theme=dark&background=0d1117&border=FF9F1C&ring=FF9F1C&fire=FF9F1C&currStreakLabel=FF9F1C&sideLabels=FF9F1C&dates=c9d1d9)
 </p>
 
 ---
