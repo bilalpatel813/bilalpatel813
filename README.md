@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Bilal Patel</h1>
+<h2 align="center">Hey! I'm Bilal </h2>
 <h3 align="center">Just a Tech... </h3>
 
 ---
