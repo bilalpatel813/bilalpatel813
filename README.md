@@ -13,20 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Patel Bilal</h1>
-<h3 align="center">BSc CS Student | Python & Web Developer 🚀</h3>
+<h1 align="center">Bilal Patel</h1>
+<h3 align="center">Just a Tech... </h3>
 
 ---
 
-## 🧑‍💻 I am a
-- 🎓 Computer Science Student  
-- 💡 Passionate about building real-world projects    
-
----
-
-## I'm Working On
-- Backend Architecture(Django)
-- Authentication Systems
+## Working On
+- Building Backend via Django & fastAPI
+- Systems To Change Tech World
 
 ---
 
@@ -36,9 +30,9 @@ Here are some ideas to get you started:
   
 <img src="https://skillicons.dev/icons?i=python" height="30"/>
 <img src="https://skillicons.dev/icons?i=django" height="30"/>
-<img src="https://skillicons.dev/icons?i=html" height="30"/>
-<img src="https://skillicons.dev/icons?i=css" height="30"/>
-<img src="https://skillicons.dev/icons?i=js" height="30"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="30"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="30"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="30"/>
 <img src="https://skillicons.dev/icons?i=git" height="30"/>
 <img src="https://skillicons.dev/icons?i=github" height="30"/>
 
